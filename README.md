@@ -21,6 +21,6 @@ This project is developed in partnership with:
 - Presented the app at **Technovation Girls 2025 (Kazakhstan Finalist)**
 
 ## 📸 Screenshots
-<img src="lumiverse2.jpeg" width="500"/>
-<img src="lumiverse1.jpeg" width="500"/>
+<img src="lumiverse2.jpeg" width="250"/>
+<img src="lumiverse1.jpeg" width="250"/>
 
