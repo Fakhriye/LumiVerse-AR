@@ -20,3 +20,7 @@ This project is developed in partnership with:
 - Integrated AI interaction into the story logic
 - Presented the app at **Technovation Girls 2025 (Kazakhstan Finalist)**
 
+## 📸 Screenshots
+![Home Page](./lumiverse2.jpeg)
+![Lessons Page](./lumiverse1.jpeg)
+
